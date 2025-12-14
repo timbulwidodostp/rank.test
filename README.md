@@ -1,6 +1,8 @@
 # rank.test
 Test of the cointegrating rank Use rank.test (tsDyn) With (in) R software
 
+rank.test (tsDyn) With (in) R software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)

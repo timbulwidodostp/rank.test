@@ -1,7 +1,7 @@
 # rank.test
 Test of the cointegrating rank Use rank.test (tsDyn) With (in) R software
 
-rank.test (tsDyn) With (in) R software
+https://www.youtube.com/watch?v=UNAiscqgXZ0
 
 Olah Data Semarang
 
